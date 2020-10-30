@@ -1,0 +1,56 @@
+/*****TAG SELECTORS*****/
+
+body {
+  background-color: #bedbbb;
+}
+
+h1 {
+  font-family: party let, fantasy;
+  color: #707070;
+}
+
+h2 {
+  font-family: party let, fantasy;
+  color: #8db596;
+}
+h3 {
+  font-family: party let, fantasy;
+  color: #8db596;
+}
+
+a {
+  font-family: party let, fantasy;
+  color: #8db596;
+}
+
+hr {
+  border-color: #707070;
+  border-style: dotted none none none;
+  border-width: 10px;
+}
+
+p {
+  color: #92817a;
+}
+
+/*****CLASS SELECTORS*****/
+
+.grey {
+  color: #92817a;
+}
+
+.white {
+  color: #f8f1f1;
+}
+
+.black {
+  color: black;
+}
+
+.dark-blue {
+  color: #070d59;
+}
+
+.salmon {
+  color: #ee6f57;
+}
